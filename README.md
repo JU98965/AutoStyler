@@ -12,7 +12,7 @@
 
 | 이름 | 목적 |
 | --- | --- |
-| Alamofire | 네트워크 통신 작업을 수행합니다. |
+| Alamofire | HTTP 통신 작업을 수행합니다. |
 | SnapKit | AutoLayout 제약조건 코드의 가독성을 개선합니다. |
 
 <br/>
