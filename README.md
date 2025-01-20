@@ -1,4 +1,4 @@
-![Header](https://github.com/user-attachments/assets/e01426c4-a07e-49e4-8ecb-74fe4979f942)
+![Header](https://github.com/user-attachments/assets/504cc37b-7dab-4a1a-9aaa-bf5ee1d60e86)
 
 ## 개요
 선택한 의상들을 기반으로 좋아할 만한 코디를 추천하는 서비스(의 iOS 애플리케이션)
